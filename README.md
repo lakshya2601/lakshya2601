@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 I’m currently working on React apps & competitive programming.<br>🕺🕺 I’m looking to collaborate on web dev & open-source.<br>🤝 I’m looking for help with system design & scaling.<br>🌱 I’m currently learning backend & cloud tech.<br>💬 Ask me about frontend, CP, or debugging hacks.<br>⚡ Fun fact I refactor code more than I sleep. 😆
 
 
